@@ -1,0 +1,21 @@
+site_name: dx64cn-Docs
+site_url: "https://dx64cn.readthedocs.io"
+site_author: "toad114514 & 其他小伙伴"
+site_description: "sm64coopdx 非官方中文文档"
+
+theme:
+  name: material
+  custom_dir: over
+  language: zh
+  palette:
+    primary: "blue"
+  feature:
+    - navigation.tabs
+
+extra_css:
+  - global.css
+  
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed
