@@ -10,7 +10,7 @@ Mod 是 sm64coopdx 的核心玩法内容，主要让模组开发者们能通过�
   </tr>
   </tr><td>Mods | Coopdx Mods</td><td><a href="https://mods.sm64coopdx.com/">https://mods.sm64coopdx.com/</a></td></tr>
   <tr><td>Super Mario 64 PC Port | Gamebanana (需翻墙)</td><td><a href="https://gamebanana.com/games/9790">https://gamebanana.com/games/9790</a></td></tr>
-  <tr><td>Coop Central Discord 频道</td><td><a href="https://discord.gg/TJVKHS4">https://discord.gg/TJVKHS4</a></td></tr>
+  <tr><td>Coop Central Discord 频道 (需翻墙)</td><td><a href="https://discord.gg/TJVKHS4">https://discord.gg/TJVKHS4</a></td></tr>
 </table>
 下载完成之后，将模组文件移动到以下的文件夹：
 ### Android
