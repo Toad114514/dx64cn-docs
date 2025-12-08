@@ -1,6 +1,6 @@
 # OMM Rebirth
 <table>
-  <tr><td colspan="2"><center><img src="./img/omm-coop.png" w="200" h="150"/></center></td></tr>
+  <tr><td colspan="2"><center><img src="./omm-coop.png" w="200" h="150"/></center></td></tr>
   <tr>
     <td>模组名</td>
     <td>Odyssey Mario’s Movesets: Rebirth (简称omm) </td>
