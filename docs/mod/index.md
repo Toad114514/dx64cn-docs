@@ -21,7 +21,7 @@
   - Hide and Seek (DX)
   - MarioHunt
 ## 动作集 / Movesets
-  - OMM Rebirth
+  - [OMM Rebirth](./movesets/omm.md)
   - mquake
 ## Character Select
   - Baidi
