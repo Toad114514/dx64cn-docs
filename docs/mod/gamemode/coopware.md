@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>作者</td>
-    <td>EmilyEmmi<br>设计灵感 someguylostontheinternet, majorstuff, LJ_RETRO, demolm_, ColeSpeedruns<br>RNG 实现 Blocky<br>贴图设计 DogToon64, KrystalPhantasm, C. Pariah</td>
+    <td>EmilyEmmi<br>设计灵感: someguylostontheinternet, majorstuff, LJ_RETRO, demolm_, ColeSpeedruns<br>RNG 实现: Blocky<br>贴图设计: DogToon64, KrystalPhantasm, C. Pariah</td>
   </tr>
   <tr>
     <td>汉化</td>
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>下载链接</td>
-    <td style="color: green"><a href="https://mods.sm64coopdx.com/mods/coopware.993">Coopdx 模组站 (原版)</a><br>我的合集链接 (汉化)</td>
+    <td><a href="https://mods.sm64coopdx.com/mods/coopware.993">Coopdx 模组站 (原版)</a><br>我的合集链接 (汉化)</td>
   </tr>
 </table>
 受瓦力欧制造系列游戏的启发，EmilyEmmi 最新力作。支持多人联机合作/对抗和团队对抗，17+4 个小游戏。你作为玩家要在规定时间内完成一系列任务，活到最后赢得胜利

@@ -15,7 +15,7 @@
   - Katze stuck in the toilet
 ## 游戏模式 / Game Mode
   - Arena
-  - Coopware (仿瓦力欧制造)
+  - [Coopware (仿瓦力欧制造)](./gamemode/coopware.md)
   - Drench Game
   - Flood
   - Flood Expanded
