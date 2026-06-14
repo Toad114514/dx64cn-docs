@@ -18,6 +18,10 @@
     <td>PeachyPeach<br>贡献: Isaac, Prince Frizzy, djoslin0, Altiami, Sharen</td>
   </tr>
   <tr>
+    <td>汉化</td>
+    <td>上善若 (Shangshanruo)</td>
+  </tr>
+  <tr>
     <td>Lua 文件</td>
     <td>已经过 luac 预编译</td>
   </tr>
