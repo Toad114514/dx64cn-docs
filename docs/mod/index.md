@@ -45,7 +45,7 @@
 ## QoL
   - Weather Cycle
   - Day Night Cycle
-  - Proximity Chat (仅手机)
+  - Proximity Chat (仅电脑)
 ## 实用 / 辅助
   - Free Camera
   - Input Display
