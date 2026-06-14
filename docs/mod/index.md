@@ -1,4 +1,4 @@
-# Mods 列表
+# dxModDB 数据库
 这里会收录一些部分 Coopdx 模组的简介，后面会慢慢补齐他们。
 ## Romhack
   - Burtal Mario 64
@@ -27,7 +27,7 @@
   - Baidi
   - Blue Archive CS Pack
   - Bowser (+Jr) Movesets
-  - **Character Select v1.15.1 \[依赖库\]**
+  - **Character Select v1.16.1 \[依赖库\]**
   - **Character Select v1.15.1 NameFix \[依赖库+名字修复\]**
   - DDLC CS Pack
   - Deltarune Ch4 Secret boss (+Movesets)
