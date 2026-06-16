@@ -4,7 +4,8 @@
 </center>
 <br>
 
-由 toad114514 主要维护的 sm64coopdx 非官方中文文档，帮助/快速查询并解决您的 sm64coopdx 问题。
+由 toad114514 主要维护的 sm64coopdx 非官方中文文档，帮助/快速查询并解决您的 sm64coopdx 问题。  
+*（经过我网上资料和Gemini，今年暑假会将静态网页生成从mkdocs升级成vitepress，敬请期待...）*
 ## 刚入坑的小白？
 对于小白来讲，如果您刚入坑 sm64coopdx 的话，那么请 [查看本向导](./guide.md) 帮助你入坑 sm64coopdx。
 ## dxModDB 数据库
