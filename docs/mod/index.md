@@ -5,7 +5,7 @@
   - Kaizo Mario 64
   - Return to Retroland
   - Super Mario 64: The Underworld
-  - Super Mario 64 Land **[WIP]**
+  - [Super Mario 64 Land **[WIP]**](./romhack/sm64land.md)
   - [Super Mario 74 (+EE)](./romhack/sm74.md)
   - Super Mario: The Last Impact **[WIP]**
   - Super Mario Treasure World
@@ -15,6 +15,7 @@
   - Katze stuck in the toilet
 ## 游戏模式 / Game Mode
   - Arena
+  - Coop usamune (速通练习)
   - [Coopware (仿瓦力欧制造)](./gamemode/coopware.md)
   - Drench Game
   - Flood
