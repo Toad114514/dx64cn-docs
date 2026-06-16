@@ -1,6 +1,6 @@
 # Super Mario Star Road
 <table>
-  <tr><td colspan="2"><center><img src="./sr/title.png"/></center></td></tr>
+  <tr><td colspan="2"><center><img src="title.png" width="300" height="auto"/></center></td></tr>
   <tr>
     <td>模组名</td>
     <td>Star Road</td>
