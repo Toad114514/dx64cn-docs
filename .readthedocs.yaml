@@ -12,7 +12,7 @@ build:
     nodejs: "latest"
   jobs:
          install:
-             - npm install vitepress
+             - npm ci
          build:
              html:
                  # The site was created by running `vitepress init`
