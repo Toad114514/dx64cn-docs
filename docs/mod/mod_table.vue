@@ -1,5 +1,5 @@
 <script setup>
-import { useData } from 'vitepress'
+import { useData, withBase } from 'vitepress'
 
 // VitePress 核心 API：获取当前页面的元数据
 const { frontmatter } = useData()
@@ -13,7 +13,7 @@ const { frontmatter } = useData()
         <tr v-if="frontmatter.image">
           <td colspan="2">
            <center>
-            <img :src="frontmatter.image.imgsrc"/>
+            <img :src="withBase(frontmatter.image.imgsrc)"/>
             <br v-if="frontmatter.image.imgalt"/>
             <i v-if="frontmatter.image.imgalt" class="image_alt">{{ frontmatter.image.imgalt }}</i>
            </center>
