@@ -14,7 +14,7 @@ export default createContentLoader('*/mod/**/*.md', {
         author: page.frontmatter.author || '未知作者',
         desc: page.frontmatter.description || '暂无介绍',
         imgsrc: page.frontmatter.image.imgsrc || "",
-        link: page.url // 自动生成点击跳转的链接！
+        link: "/zh-cn/latest" + page.url // 自动生成点击跳转的链接！
       }))
   }
 })
