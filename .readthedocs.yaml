@@ -9,16 +9,16 @@ version: 2
 build:
   os: ubuntu-24.04
   tools:
-    nodejs: "22"
-
-mkdocs:
-  configuration: mkdocs.yml
-
-# Optionally declare the Python requirements required to build your docs
-python:
-  install:
-    - npm add -D vitepress@next
-  build:
-    - npx vitepress build
-    - mkdir -p $READTHEDOCS_OUTPUT/html
-    - cp -r .vitepress/dist/* $READTHEDOCS_OUTPUT/html/
+    nodejs: "latest"
+  jobs:
+         install:
+             - npm install vitepress
+         build:
+             html:
+                 # The site was created by running `vitepress init`
+                 # and following the official guide
+                 # https://vitepress.dev/guide/getting-started
+                 - vitepress build docs
+                 - mkdir -p $READTHEDOCS_OUTPUT/
+                 - mv docs/.vitepress/dist $READTHEDOCS_OUTPUT/html
+                 
