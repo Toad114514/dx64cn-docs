@@ -6,7 +6,7 @@ hero:
   text: "你的 Coopdx 帮手"
   tagline: "非官方中文 sm64coopdx 文档"
   image:
-    src: /docs/public/logo.png
+    src: logo.png
     alt: "logo.aaa"
   actions:
     - theme: brand
