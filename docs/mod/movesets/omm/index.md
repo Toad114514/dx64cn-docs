@@ -1,40 +1,19 @@
-# OMM Rebirth
-<table>
-  <tr><td colspan="2"><center><img src="../omm-coop.png" w="200" h="150"/></center></td></tr>
-  <tr>
-    <td>模组名</td>
-    <td>Odyssey Mario’s Movesets: Rebirth </td>
-  </tr>
-  <tr>
-    <td>别称</td>
-    <td>OMM, 奥德赛模组</td>
-  </tr>
-  <tr>
-    <td>模组类型</td>
-    <td>动作集</td>
-  </tr>
-  <tr>
-    <td>作者</td>
-    <td>PeachyPeach<br>贡献: Isaac, Prince Frizzy, djoslin0, Altiami, Sharen</td>
-  </tr>
-  <tr>
-    <td>汉化</td>
-    <td>上善若 (Shangshanruo)</td>
-  </tr>
-  <tr>
-    <td>Lua 文件</td>
-    <td>已经过 luac 预编译</td>
-  </tr>
-  <tr>
-    <td>最新版本</td>
-    <td><b>v1.4 (已完成更新)</b></td>
-  </tr>
-  <tr>
-    <td>下载链接</td>
-    <td style="color: green"><a href="https://github.com/PeachyPeachSM64/coopdx-mods-omm-rebirth/releases/tag/v1.4">Github (需翻墙)</a></td>
-  </tr>
-</table>
-
+---
+modpage: true
+title: "OMM Rebirth"
+name: "Odyssey Mario’s Movesets: Rebirth"
+description: 加强版的奥德赛动作优化😱😱😱
+image:
+  imgsrc: ./omm-coop.png
+alias: "OMM, 奥德赛模组"
+category: 动作集
+author: "PeachyPeach, Isaac, Prince Frizzy, djoslin0, Altiami, Sharen"
+cn: 上善若
+luac: 已经过预编译
+link:
+  url: https://github.com/PeachyPeachSM64/coopdx-mods-omm-rebirth/releases/tag/v1.4
+  alt: "Github (需翻墙)"
+---
 ## 起源 & 特性
 由 PeachyPeach 带头的一个动作集模组，sm64ex-omm 特性的重植版本，属于 sm64coopdx 模组生态中少见的精品模组之一。  
 此模组将尽量最大的还原《超级马里奥奥德赛》的特性，使你可以通过在超级马里奥64中玩到奥德赛元素。包括但不限于：  

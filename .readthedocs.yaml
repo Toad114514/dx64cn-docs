@@ -9,12 +9,16 @@ version: 2
 build:
   os: ubuntu-24.04
   tools:
-    python: "3.12"
+    nodejs: "22"
 
 mkdocs:
   configuration: mkdocs.yml
 
 # Optionally declare the Python requirements required to build your docs
 python:
-   install:
-   - requirements: req.txt
+  install:
+    - npm add -D vitepress@next
+  build:
+    - npx vitepress build
+    - mkdir -p $READTHEDOCS_OUTPUT/html
+    - cp -r .vitepress/dist/* $READTHEDOCS_OUTPUT/html/

@@ -1,38 +1,19 @@
-<table>
-  <tr><td colspan="2"><center><img src="../img/coopwareLogo.png" w="200" h="150"/></center></td></tr>
-  <tr>
-    <td>模组名</td>
-    <td>CoopWare</td>
-  </tr>
-  <tr>
-    <td>别称</td>
-    <td>Coop 制造</td>
-  </tr>
-  <tr>
-    <td>模组类型</td>
-    <td>游戏模式</td>
-  </tr>
-  <tr>
-    <td>作者</td>
-    <td>EmilyEmmi<br>设计灵感: someguylostontheinternet, majorstuff, LJ_RETRO, demolm_, ColeSpeedruns<br>RNG 实现: Blocky<br>贴图设计: DogToon64, KrystalPhantasm, C. Pariah</td>
-  </tr>
-  <tr>
-    <td>汉化</td>
-    <td>toadXtech64 (Toad114514)</td>
-  </tr>
-  <tr>
-    <td>Lua 文件</td>
-    <td>无预编译/加密</td>
-  </tr>
-  <tr>
-    <td>最新版本</td>
-    <td><b>v1.2</b></td>
-  </tr>
-  <tr>
-    <td>下载链接</td>
-    <td><a href="https://mods.sm64coopdx.com/mods/coopware.993">Coopdx 模组站 (原版)</a><br>我的合集链接 (汉化)</td>
-  </tr>
-</table>
+---
+modpage: true
+title: CoopWare
+name: CoopWare
+description: 在 sm64coopdx 玩瓦力欧制造！
+alias: "Coop 制造"
+category: 游戏模式
+author: EmilyEmmi
+image:
+  imgsrc: ./coopwareLogo.png
+cn: toadXtech64 (Toad114514)
+version: v1.2
+link:
+  url: https://mods.sm64coopdx.com/mods/coopware.993
+  alt: Coopdx 模组站 (原版)
+---
 受瓦力欧制造系列游戏的启发，EmilyEmmi 最新力作。支持多人联机合作/对抗和团队对抗，17+4 个小游戏。你作为玩家要在规定时间内完成一系列任务，活到最后赢得胜利
 ## 特性
   - 支持多人联机 (合作/对抗/团队比拼)
@@ -48,8 +29,8 @@
 在普通游戏中，你作为玩家要在一系列的小游戏中完成任务，任务完成将继续下一个小游戏，任务失败扣除一滴血。所有生命丢掉了游戏就结束了，玩过瓦力欧制造系列游戏的会很熟悉这种玩法  
 在默认配置下，玩家默认会有四条命，每5个小游戏加快 0.1 倍，每15个小游戏就会有 Boss 环节，同时 Boss 环节之后会提升难度。
 ## 截图
-![scr1](img/cws1.png)
-![scr2](img/cws2.png)
+![scr1](./cws1.png)
+![scr2](./cws2.png)
 ## 玩家模式
 这些玩家模式无论在经典/沙盒还是扩展都需要让你选择其中之一
 ### Coop / 合作

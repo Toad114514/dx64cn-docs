@@ -6,11 +6,20 @@ Mod 是 sm64coopdx 的核心玩法内容，主要让模组开发者们能通过�
 目前有以下的链接可以帮助你下载mod
 <table>
   <tr>
-  <td colspan="2">Mod 链接</td>
+   <td colspan="2">Mod 链接</td>
   </tr>
-  </tr><td>Mods | Coopdx Mods</td><td><a href="https://mods.sm64coopdx.com/">https://mods.sm64coopdx.com/</a></td></tr>
-  <tr><td>Super Mario 64 PC Port | Gamebanana (需翻墙)</td><td><a href="https://gamebanana.com/games/9790">https://gamebanana.com/games/9790</a></td></tr>
-  <tr><td>Coop Central Discord 频道 (需翻墙)</td><td><a href="https://discord.gg/TJVKHS4">https://discord.gg/TJVKHS4</a></td></tr>
+  <tr>
+   <td>Mods | Coopdx Mods</td>
+   <td><a href="https://mods.sm64coopdx.com/">https://mods.sm64coopdx.com/</a></td>
+  </tr>
+  <tr>
+   <td>Super Mario 64 PC Port | Gamebanana (需翻墙)</td>
+   <td><a href="https://gamebanana.com/games/9790">https://gamebanana.com/games/9790</a></td>
+  </tr>
+  <tr>
+   <td>Coop Central Discord 频道 (需翻墙)</td>
+   <td><a href="https://discord.gg/TJVKHS4">https://discord.gg/TJVKHS4</a></td>
+  </tr>
 </table>
 下载完成之后，将模组文件移动到以下的文件夹：
 ### Android
@@ -34,7 +43,7 @@ Mod 是 sm64coopdx 的核心玩法内容，主要让模组开发者们能通过�
 ## 介绍 & 基础使用
 ### Coopdx 汉化版
 从 创建房间 \-\> Mod列表 中可以查看自己目前所有可用的模组列表  
-![ModList](../../img/ss/modlist.jpg)
+![ModList](./modlist.jpg)
 左边栏目展示了所有列出的mod列表，右边栏目展示了模组简介。
 #### 左边栏目
 上面的类别对部分模组进行了分类，可以快速查找你需要的分类，只需按下右边分类的按钮进行切换  
@@ -56,7 +65,7 @@ Mod 是 sm64coopdx 的核心玩法内容，主要让模组开发者们能通过�
 #### 右边栏目
 在你点击左边栏目的模组后，右边栏目则会显示出该模组的简介。
 ## 一些部分的模组简介
-详见 [dxModDB 数据库](../mod/index.md)
+详见 [dxModDB 数据库](docs/mod/index.md)
 ## 模组类别
 ### Romhack
 !!! note "提示"

@@ -1,7 +1,7 @@
 # Coopdx
 <table>
   <tr>
-    <td colspan="2"><center><img src="../../img/coopdxlogo.png"/><br><i>coopdx 旧版logo</i></center></td>
+    <td colspan="2"><center><img src="./coopdxlogo.png"/><br><i>coopdx 旧版logo</i></center></td>
   </tr>
   <tr>
     <td>名称</td>
@@ -37,13 +37,7 @@
   </tr>
 </table>
 
-一群伙计(也是Coopdx团队)在 djoslin0 的 [sm64excoop](./ex.md) fork 版本，也是 [sm64excoop](./ex.md) 的延续，Coopdx 团队的伙计们在此基础上完善了很多新特性，以及Lua API、游戏优化和bug修复。目前该版本是所有sm64重编译项目中最出名、最受欢迎且持续维护的版本。
-
-??? note "?"
-    25.07.12 发现：  
-    djoslin0 不是说好不插手 sm64coopdx 的维护吗
-    ![证据](../../img/ss/djoslin0.jpg)
-    ![证据2](../../img/ss/djoslin1.jpg)
+一群伙计(也是Coopdx团队)在 djoslin0 的 [sm64excoop](/docs/version/ex/index.md) fork 版本，也是 [sm64excoop](/docs/version/ex/index.md) 的延续，Coopdx 团队的伙计们在此基础上完善了很多新特性，以及Lua API、游戏优化和bug修复。目前该版本是所有sm64重编译项目中最出名、最受欢迎且持续维护的版本。
 
 ## 最初目标 
 Coopdx 的最初目标是制作一个在PC端上可以大家一起联机的sm64。  
@@ -52,4 +46,4 @@ Coopdx 的最初目标是制作一个在PC端上可以大家一起联机的sm64�
 ## 发展
 *待补充...*
 ## 汉化版本
-参考 [sm64coopdx 汉化版](./cndx.md)
+参考 [sm64coopdx 汉化版](/docs/version/cndx)

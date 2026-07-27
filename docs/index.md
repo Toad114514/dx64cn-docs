@@ -1,8 +1,8 @@
 <center>
-<img class="dx64cn-logo" width="300" src="./img/logo.png"/>
+<img class="dx64cn-logo" width="300" src="/docs/public/logo.png"/>
 <h1><i>你的 Coopdx 帮手</i></h1>
 </center>
-<br>
+<br/>
 
 由 toad114514 主要维护的 sm64coopdx 非官方中文文档，帮助/快速查询并解决您的 sm64coopdx 问题。  
 *（经过我网上资料和Gemini，今年暑假会将静态网页框架从mkdocs升级成vitepress，敬请期待...虽然有点舍不得mkdocs但是vite还是太强了）*

@@ -1,35 +1,23 @@
-# Super Mario 64 Land
-<table>
-  <tr><td colspan="2"><center><img src="../img/64land.png" width="300" height="auto"/></center></td></tr>
-  <tr>
-    <td>模组名</td>
-    <td>SM64 Land</td>
-  </tr>
-  <tr>
-    <td>模组类型</td>
-    <td>Romhack</td>
-  </tr>
-  <tr>
-    <td>Romhack 作者</td>
-    <td>Kaze Emanuar</td>
-  </tr>
-  <tr>
-    <td>Romhack 信息</td>
-    <td><b>131 颗星<br>难度: 5.8<br>romhacking 评分: 8.6<br>2019.11.11发布</b></td>
-  </tr>
-  <tr>
-    <td>移植</td>
-    <td>ManIsCat2</td>
-  </tr>
-  <tr>
-    <td>模组状态</td>
-    <td style="color: yellow;">开发不活跃</td>
-  </tr>
-  <tr>
-    <td>下载链接</td>
-    <td><a href="https://github.com/ManIsCat2/SM64-Land">Github</a></td>
-  </tr>
-</table>
+---
+modpage: true
+title: Super Mario 64 Land
+name: Super Mario 64 Land
+alias: "SM64 Land, 超级马里奥乐园"
+category: Romhack
+author: Kaze Emanuar
+image:
+  imgsrc: ./64land.png
+romhack:
+  star: 131
+  lvl: 48
+  diff: 5.8
+  release:  2019.11.11
+porter: ManIsCat2
+status: 开发不活跃
+link:
+  url: https://github.com/ManIsCat2/SM64-Land
+  alt: Github
+---
 
 Kaze 的传奇力作之一*（正好发布于2020年新冠病毒爆发前，也许一些马尿玩家在2020~2022年的时候玩过此改版）*，受超级马里奥3d乐园和3d世界的启发制作了这款 Romhack，属于线性闯关玩法，总共8个世界，每个世界四个关卡和一个 Boss，且每个 Boss 也都有自己的特色。马里奥本人也拥有了许多新动作，以及wallkick的优化
 
@@ -58,4 +46,4 @@ excoop 的移植版本，8个世界的关卡移植基本已完成，但仍有许
  - 世界7的 7-1 管道在 excoop 下进入会导致游戏闪退
  - 等等...
 
-此模组只建议尝鲜，虽然2025年Maniscat2回来重新继续搞这个了，但目前仍不建议作为 Coopdx 上的 SM64 Land Romhack 平替
+此模组只建议尝鲜，虽然2025年Maniscat2回来重新继续搞这个了，但*（也许）*仍不建议作为 Coopdx 上的 SM64 Land Romhack 平替

@@ -1,7 +1,7 @@
 # 向导
 欢迎来到向导！这是为每一位想准备入坑的bro们准备的初始设置，以便你们方便的入坑 coopdx！
 ## 简介
-<center><img src="../img/coopdxlogo.png" w="100" h="100"/></center><br>
+<center><img src="/docs/version/dx/coopdxlogo.png" w="100" h="100"/></center><br>
 sm64coopdx 是经一群国外大佬，经过前人的不断fork和不断改善之后的开源 Super Mario 64 现代平台移植版本，官方支持 Win x64, Mac Arm, Linux x64 和 Android armv8a。也允许自己编译支持到Win arm、树莓派、类Unix的支持。支持多人游戏（包括远程联机），较完善的模组生态，详细设置和完整的 Lua API 支持，允许你在任何时间任何设备玩上你最喜欢的 sm64！  
 本版本属于 Super Mario 64 现代平台移植版本中的第三代,目前已经完成最初目标，进入改善阶段，其上游版本包含有：
 

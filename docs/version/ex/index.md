@@ -4,7 +4,7 @@
  
 <table>
   <tr>
-    <td colspan="2"><center><img src="../../img/excoop.jpg"/><br><i>sm64excoop 主菜单</i></center></td>
+    <td colspan="2"><center><img src="./excoop.jpg"/><br><i>sm64excoop 主菜单</i></center></td>
   </tr>
   <tr>
     <td>名称</td>

@@ -1,0 +1,30 @@
+/* custom.css */
+
+/* 1. 强行覆写主标题渐变色（蓝紫粉炫彩过渡） */
+.VPHero .name {
+  background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 50%, #ff4334 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+/* 2. Logo 背后强行加上发光“弥散霓虹” */
+.VPHero .image-container .image-src {
+  filter: drop-shadow(0 0 120px rgba(99, 102, 241, 1)) !important;
+  transition: filter 0.3s ease !important;
+}
+
+.VPHero .image-container .image-src:hover {
+  filter: drop-shadow(0 0 60px rgba(168, 85, 247, 0.75)) !important;
+}
+
+/* 3. Features 4大卡片悬浮升起与阴影发光 */
+.VPFeatures .VPFeature {
+  transition: all 0.25s ease !important;
+}
+
+.VPFeatures .VPFeature:hover {
+  border-color: var(--vp-c-brand-1) !important;
+  transform: translateY(-4px) !important;
+  box-shadow: 0 12px 24px -10px rgba(59, 130, 246, 0.8) !important;
+}
