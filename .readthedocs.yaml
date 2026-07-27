@@ -19,6 +19,6 @@ build:
                  # and following the official guide
                  # https://vitepress.dev/guide/getting-started
                  - npx vitepress build
-                 - mkdir -p $READTHEDOCS_OUTPUT/
+                 - mkdir -p $READTHEDOCS_OUTPUT/html
                  - mv .vitepress/dist $READTHEDOCS_OUTPUT/html
                  
