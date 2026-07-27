@@ -1,5 +1,5 @@
 <center>
-<img class="dx64cn-logo" width="300" src="/docs/public/logo.png"/>
+<img class="dx64cn-logo" width="300" src="/logo.png"/>
 <h1><i>你的 Coopdx 帮手</i></h1>
 </center>
 <br/>
