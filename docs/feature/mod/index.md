@@ -22,6 +22,7 @@ Mod 是 sm64coopdx 的核心玩法内容，主要让模组开发者们能通过�
   </tr>
 </table>
 下载完成之后，将模组文件移动到以下的文件夹：
+
 ### Android
 ```bash
 # 以下两个文件夹均可，建议使用 mt 管理器移动
@@ -31,6 +32,7 @@ Mod 是 sm64coopdx 的核心玩法内容，主要让模组开发者们能通过�
 /storage/emulated/0/com.shangshanruo.sm64coopdxcn/mods
 /storage/emulated/0/com.shangshanruo.sm64coopdxcn/user/mods
 ```
+
 ### Windows/Mac/Linux
 ```bash
 # 游戏目录底下的mod文件夹，即解压后的游戏目录内部自带一个 mod 文件夹（无论是否编译，因为编译之后出来的文件也是一个压缩包里面也自带mod文件夹）
@@ -65,7 +67,7 @@ Mod 是 sm64coopdx 的核心玩法内容，主要让模组开发者们能通过�
 #### 右边栏目
 在你点击左边栏目的模组后，右边栏目则会显示出该模组的简介。
 ## 一些部分的模组简介
-详见 [dxModDB 数据库](docs/mod/index.md)
+详见 [dxModDB 数据库](/docs/mod/index.md)
 ## 模组类别
 ### Romhack
 !!! note "提示"
