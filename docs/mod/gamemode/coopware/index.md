@@ -7,7 +7,7 @@ alias: "Coop 制造"
 category: 游戏模式
 author: EmilyEmmi
 image:
-  imgsrc: ./coopwareLogo.png
+  imgsrc: coopwareLogo.png
 cn: toadXtech64 (Toad114514)
 version: v1.2
 link:

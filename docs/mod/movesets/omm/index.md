@@ -2,9 +2,9 @@
 modpage: true
 title: "OMM Rebirth"
 name: "Odyssey Mario’s Movesets: Rebirth"
-description: 加强版的奥德赛动作优化😱😱😱
+description: 加强版的奥德赛动作优化
 image:
-  imgsrc: ./omm-coop.png
+  imgsrc: omm-coop.png
 alias: "OMM, 奥德赛模组"
 category: 动作集
 author: "PeachyPeach, Isaac, Prince Frizzy, djoslin0, Altiami, Sharen"

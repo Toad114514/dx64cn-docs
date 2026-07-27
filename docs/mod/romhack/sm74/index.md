@@ -4,7 +4,7 @@ title: "Super Mario 74"
 name: Super Mario 74
 category: Romhack
 image:
-  imgsrc: ./sm74.png
+  imgsrc: sm74.png
 romhack:
   star: 151
   lvl: 15

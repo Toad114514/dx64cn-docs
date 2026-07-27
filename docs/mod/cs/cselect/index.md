@@ -6,7 +6,7 @@ alias: "角色选择"
 description: 提供了一个完整的角色菜单选择，当前各角色mod不可缺少的一部分
 category: 角色
 image:
-  imgsrc: ./char_select_logo_cn.png
+  imgsrc: char_select_logo_cn.png
   imgalt: 汉化版的 Logo, 由 SLG5(不确定) 制作
 author: Squishy6094
 cn: Shangshanruo, xiao-Link, toadXtech64, SLG5, 不正常的 Noise

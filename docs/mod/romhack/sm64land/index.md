@@ -6,7 +6,7 @@ alias: "SM64 Land, 超级马里奥乐园"
 category: Romhack
 author: Kaze Emanuar
 image:
-  imgsrc: ./64land.png
+  imgsrc: 64land.png
 romhack:
   star: 131
   lvl: 48

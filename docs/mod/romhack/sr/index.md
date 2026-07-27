@@ -4,7 +4,7 @@ title: Super Mario Star Road
 name: Super Mario Star Road
 author: Skelux
 image:
-  imgsrc: ./title.png
+  imgsrc: title.png
 romhack:
   star: 130
   lvl: 15
