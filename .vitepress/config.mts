@@ -6,8 +6,18 @@ export default defineConfig({
   base: '/zh-cn/latest/',
   description: "非官方中文 sm64coopdx 文档",
   ignoreDeadLinks: true,
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    editLink: {
+      pattern: 'https://github.com/toad114514/dx64cn-docs/edit/main/:path',
+      text: "在 Github 上编辑此页面"
+    },
+    
+    footer: {
+      message: "文档由 Toad114514 维护"
+    },
+    
     nav: [
       { text: '主页', link: '/' },
       { text: '入门指南', link: '/docs/guide' },
