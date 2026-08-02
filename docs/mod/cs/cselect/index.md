@@ -12,6 +12,7 @@ author: Squishy6094
 cn: Shangshanruo, xiao-Link, toadXtech64, SLG5, 不正常的 Noise
 version: v1.16.3 (汉化 CN-rc3)
 status: 持续更新
+keywords: [ "依赖包" ]
 link:
   url: https://github.com/Squishy6094/character-select-coop
   alt: Github (原版)
@@ -39,3 +40,5 @@ CoopDX 初期开发前后出现的一个库，由 Squishy6094 牵头开发。此
  - 26年5月，Shangshanruo 完成了 1.4.1 更新并移植了旧版触控。终于可以开始进行 v1.16.1 的汉化了
  - v1.16.1 版本的汉化最开始也只有我主持，但之后 SLG5 和 不正常的Noise 为本版本的内置/默认涂鸦和Logo提供了贴图汉化支持
  - 26年7月底，v1.16.1 CN-rc3 合并了 Namefix 的特性，并成功内置在 DX1.5.1 (汉化1.0.1) 版本
+
+<modNavbox />

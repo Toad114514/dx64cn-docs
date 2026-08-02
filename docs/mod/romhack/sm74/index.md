@@ -11,6 +11,7 @@ romhack:
   diff: idk
   release: 2011.6.27
 author: Lugmillord
+keywords: [ "SM74" ]
 porter: 未知
 ---
 Super Mario 74 是由Lugmillord制作的romhack，2011.6.27发布该romhack，这个hack在开发之初一直到正式发布都一直被社区的兄弟们所期待，也是sm64romhack中最受欢迎的hack之一。  
@@ -25,3 +26,5 @@ excoop 时代也被完全移植并随Star Road两个romhack模组一起内置。
  - Super Mario 74 EEEE
  - Super Mario 74 EEEEEE
  - Super Mario 74 EEEEEE 2
+ 
+<modNavbox />

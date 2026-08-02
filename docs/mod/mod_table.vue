@@ -49,6 +49,10 @@ const { frontmatter } = useData()
            <td class="label">Romhack 信息</td>
            <td class="value">{{ frontmatter.romhack.star }} 颗星<br />{{ frontmatter.romhack.lvl }} 个场景<br />难度 {{ frontmatter.romhack.diff }}<br />{{ frontmatter.romhack.release }} 发布</td>
         </tr>
+        <tr v-if="frontmatter.release">
+          <td class="label">发布时间</td>
+          <td class="value">{{ frontmatter.release }}</td>
+        </tr>
         <tr v-if="frontmatter.version">
           <td class="label">最新版本</td>
           <td class="value"><code>{{ frontmatter.version }}</code></td>
@@ -96,6 +100,21 @@ const { frontmatter } = useData()
   border-radius: 8px;
   overflow: hidden;
   border: 1px solid var(--vp-c-divider);
+  /* Float Right */
+  float: right !important;
+  clear: right;
+  width: 280px;
+  margin: 0 0 16px 20px;
+  padding: 8px;
+}
+
+/* 📱 移动端自适应：取消浮动，宽度 100% */
+@media (max-width: 768px) {
+  .mod-info-table {
+    float: none;
+    width: 100%;
+    margin: 0 0 16px 0;
+  }
 }
 
 .mod-info-table td {
@@ -135,7 +154,7 @@ const { frontmatter } = useData()
 }
 
 .cs-reqtag.green {
-  color: #b91025;
+  color: #b9ae25;
   font-weight: bold;
 }
 

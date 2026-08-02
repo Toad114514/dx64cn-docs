@@ -3,6 +3,7 @@ modpage: true
 title: Super Mario Star Road
 name: Super Mario Star Road
 author: Skelux
+category: Romhack
 image:
   imgsrc: title.png
 romhack:
@@ -21,3 +22,5 @@ Star Road 很多地方都进行了重构。音乐基本全部重构，使用了�
 ![c3](./c3.png)  
 ![ow](./ow.png)  
 ![ow3](./ow3.png)
+
+<modNavbox />
